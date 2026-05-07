@@ -97,15 +97,6 @@ An **AI-driven hiring platform** that automates resume screening, smart skill ma
 
 ---
 
-## 👥 Team Members
-
-- 👨‍💻 **Harshit Srivastava**
-- 👩‍💻 **Kavya Sharma**
-- 👨‍💻 **Ginish Garg**
-- 👨‍💻 **Piyush Goyal**
-
----
-
 ## 🧩 ERD Diagram
 
 > 📌 Here's the Entity-Relationship Diagram showing the system's data architecture:
@@ -123,4 +114,4 @@ Licensed under the **MIT License** – Feel free to use, modify, and share.
 ## 🚀 Contributions Welcome
 
 Got ideas or improvements?  
-👉 Submit a PR or open an issue—we’d love your input!
+
